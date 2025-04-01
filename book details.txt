@@ -1,0 +1,5 @@
+1,Harry Potter,J.K. Rowlin,3000
+2,The Haunted Mansion,Ralph Dikins,1750
+3,Percy Jackson,Rick Riordan,2300
+4,The Adventures of TinTin,Herge,2150
+5,Diary of a Wimpy Kid,Jeff Kinney,1750

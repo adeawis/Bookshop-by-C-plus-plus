@@ -1,0 +1,42 @@
+Order ID: 1
+Customer Name: Peter
+Ordered Books: 
+Book Title: Harry Potter  ||||  Author: J.K. Rowlin  ||||  Price: 3000  ||||  Ordered Quantity: 5
+-----
+Total Price: 15000
+Added Discount: 3
+Discounted Price: 14550
+--------------------
+Order ID: 2
+Customer Name: John
+Ordered Books: 
+Order ID: 2
+Customer Name: John
+Ordered Books: 
+Book Title: Harry Potter  ||||  Author: J.K. Rowlin  ||||  Price: 3000  ||||  Ordered Quantity: 2
+-----
+Total Price: 6000
+Added Discount: 5.4
+Discounted Price: 5676
+--------------------
+Order ID: 3
+Customer Name: 
+Ordered Books: 
+Order ID: 3
+Customer Name: 
+Ordered Books: 
+Book Title: Percy Jackson
+Author: Rick Riordan
+Price: Rs. 2300
+Ordered Quantity: 1
+---------------------
+Total Price: Rs. 2300
+Added Discount: 10
+Discounted Price: Rs. 2070
+--------------------
+Total Price: Rs. 0
+Added Discount: 0
+Discounted Price: Rs. 0
+--------------------
+Order ID: 5
+Customer Name: Daniel
